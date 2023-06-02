@@ -1,3 +1,3 @@
 # Summer-Project-MBDoE
-
-# Creating the action plan 
+# Pseudocode
+# Creating the action plan in the pseudocode branch
