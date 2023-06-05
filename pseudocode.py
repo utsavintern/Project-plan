@@ -2,7 +2,7 @@
 ## Parameter estimation subject to uncertainity
 
 # Step 1: Indetify the model inputs, outputs, parameters(fixed, uncertain) (Design space)
-# Step 2: Validated candidate process model and intial data on experiments
+# Step 2: Validated candidate process model and intial data on experiments, # of experiments
 # Step 3: Uncertainity in the parameters
 # Step 4: Perform an intial senstivity analysis for the uncertainity to check model responses
     # Step 4a: Compute the model sensitivities
