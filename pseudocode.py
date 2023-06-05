@@ -11,4 +11,10 @@
     # Step 5a: Compute A-,D-,E- Optimiality criterion and also check other optimality criterion
 # Step 6
 #   Step 6a: Plot the optmality criterion, design vector space
-#   Step 6b: Parameter estimated values, posterior statistics (95% Confidence interval), t-value,, st.dev.
+#   Step 6b: Parameter estimated values, posterior statistics (95% Confidence interval), t-value, st.dev.
+
+
+
+
+
+
